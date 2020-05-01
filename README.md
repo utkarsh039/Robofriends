@@ -1,7 +1,9 @@
 To run this :
-  Clone this repo
-  Run npm install
-  Run npm start
+  **Clone this repo**
+  
+  **Run npm install**
+  
+  **Run npm start**
 
 ## Available Scripts
 
