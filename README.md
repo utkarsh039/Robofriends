@@ -1,10 +1,10 @@
 **Steps**
 
-  **Clone this repo**
+  **1. Clone this repo**
   
-  **Run npm install**
+  **2. Run npm install**
   
-  **Run npm start**
+  **3. Run npm start**
 
 ## Available Scripts
 
